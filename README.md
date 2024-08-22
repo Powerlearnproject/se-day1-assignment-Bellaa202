@@ -15,7 +15,6 @@ List and briefly explain the phases of the Software Development Life Cycle. Ans=
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate. Ans= Agile promotes ongoing collaboration, while Waterfall focuses on thorough planning and execution in predetermined stages.
 
-
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team. Ans = Design test plans, scenarios, scripts, or procedures. Document software defects, using a bug tracking system, and report defects to software developers. Identify, analyze, and document problems with program function, output, online screen, or content. 
 
 
